@@ -1,0 +1,35 @@
+/* components/input/index.wxss */
+.i-cell{
+  position: relative;
+  padding: 24rpx 30rpx;
+  display: flex;
+  background: #fff;
+  align-items: center;
+  line-height: 1.2;
+  font-size: 28rpx;
+  overflow: hidden;
+}
+
+.i-cell-body{
+  flex: 1;
+}
+
+.i-input{
+  padding: 14rpx 30rpx;
+  color: #495060;
+}
+
+.i-input-title{
+  min-width: 130rpx;
+  padding-right: 20rpx;
+}
+
+.i-input-input{
+  padding: 8rpx 0;
+}
+
+
+
+
+
+

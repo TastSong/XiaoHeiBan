@@ -1,3 +1,6 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "i-panel": "../../components/panel/index",
+    "i-input": "../../components/input/index"
+  }
 }

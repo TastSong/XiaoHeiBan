@@ -1,0 +1,10 @@
+<!--pages/login/index.wxml-->
+<view class="container">
+  <view class="content">
+    <view class="content-wave" style="transform: rotateZ({{angle}}deg)">
+      <image class="logo" src="../../resources/static/imgs/app_icon.png"></image>
+      <image class="wave" src="../../resources/static/imgs/wave.png" mode="aspectFit"></image>
+      <image class="wave wave-bg" src="../../resources/static/imgs/wave.png" mode="aspectFit"></image>
+    </view>
+  </view>
+</view>
